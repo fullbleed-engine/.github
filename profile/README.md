@@ -30,6 +30,13 @@ These are pages from generated PDFs. Select a preview to open the document.
 <a href="https://docs.fullbleed.dev/assets/showcase/invoice.pdf"><img src="https://docs.fullbleed.dev/assets/showcase/invoice-1.png" width="48%" alt="Northstar Studio invoice with expressive typography, an itemized table, and a forest-green total panel."></a>
 <a href="https://docs.fullbleed.dev/assets/showcase/report.pdf"><img src="https://docs.fullbleed.dev/assets/showcase/report-1.png" width="48%" alt="Common Ground community report with large typography and an illustrated landscape."></a>
 
+<a href="https://docs.fullbleed.dev/assets/matplotlib-report/report.pdf"><img src="https://docs.fullbleed.dev/assets/matplotlib-report/report-1.png" width="48%" alt="Fieldnote logistics report with a large navy headline, three summary metrics, a teal Matplotlib line chart, and a lime annotation panel."></a>
+<a href="https://docs.fullbleed.dev/assets/arabic-invoice/invoice.pdf"><img src="https://docs.fullbleed.dev/assets/arabic-invoice/invoice.png" width="48%" alt="Nawa Studio invoice with Arabic and English text, a dark green title panel, coral accents, and an itemized service table."></a>
+
+[Build the Matplotlib chart report](https://docs.fullbleed.dev/guides/matplotlib-pdf/)
+· [Create an Arabic and English invoice](https://docs.fullbleed.dev/guides/arabic-pdf/)
+· [Export a pandas DataFrame](https://docs.fullbleed.dev/guides/pandas-to-pdf/)
+
 [Explore the templates and PDFs](https://docs.fullbleed.dev/examples/), or
 [edit a React app with automatic previews](https://docs.fullbleed.dev/guides/react-pdf/).
 
